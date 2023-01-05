@@ -1,0 +1,11 @@
+C:\Users\UserA\source\repos\FileFusion\FileFusion\bin\Release\netcoreapp3.1\FileFusion.exe
+C:\Users\UserA\source\repos\FileFusion\FileFusion\bin\Release\netcoreapp3.1\FileFusion.deps.json
+C:\Users\UserA\source\repos\FileFusion\FileFusion\bin\Release\netcoreapp3.1\FileFusion.runtimeconfig.json
+C:\Users\UserA\source\repos\FileFusion\FileFusion\bin\Release\netcoreapp3.1\FileFusion.runtimeconfig.dev.json
+C:\Users\UserA\source\repos\FileFusion\FileFusion\bin\Release\netcoreapp3.1\FileFusion.dll
+C:\Users\UserA\source\repos\FileFusion\FileFusion\bin\Release\netcoreapp3.1\FileFusion.pdb
+C:\Users\UserA\source\repos\FileFusion\FileFusion\obj\Release\netcoreapp3.1\FileFusion.csprojAssemblyReference.cache
+C:\Users\UserA\source\repos\FileFusion\FileFusion\obj\Release\netcoreapp3.1\FileFusion.AssemblyInfoInputs.cache
+C:\Users\UserA\source\repos\FileFusion\FileFusion\obj\Release\netcoreapp3.1\FileFusion.AssemblyInfo.cs
+C:\Users\UserA\source\repos\FileFusion\FileFusion\obj\Release\netcoreapp3.1\FileFusion.dll
+C:\Users\UserA\source\repos\FileFusion\FileFusion\obj\Release\netcoreapp3.1\FileFusion.pdb
